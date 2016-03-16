@@ -33,3 +33,5 @@ Reference links below:
 2. [SECCURE](http://point-at-infinity.org/seccure/)
 
 3. [Simple Elliptic Curve Cryptography in Python](https://blog.affien.com/archives/2013/04/16/simple-elliptic-curve-cryptography-in-python-compatible-with-seccure/comment-page-1/)
+
+4. [How to Calculate the Size of Encrypted Data?](http://www.obviex.com/articles/CiphertextSize.pdf)
