@@ -27,6 +27,9 @@ more encryptStr.msg
 ```
 
 Reference links below:
+
 1. [py-seccure](https://github.com/bwesterb/py-seccure)
+
 2. [SECCURE](http://point-at-infinity.org/seccure/)
+
 3. [Simple Elliptic Curve Cryptography in Python](https://blog.affien.com/archives/2013/04/16/simple-elliptic-curve-cryptography-in-python-compatible-with-seccure/comment-page-1/)
